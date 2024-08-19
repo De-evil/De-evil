@@ -1,14 +1,17 @@
-Hi there! 
-I'm Manoj, 
+👀 **I’m interested in:**  
+Exploring new technologies, developing full-stack applications, and creating interactive Websites and Landing pages.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 **I’m currently learning:**  
+Advanced React.js techniques, backend optimizations with Node.js and Express.
 
-<!---
-De-evil/De-evil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💞️ **I’m looking to collaborate on:**  
+Open-source projects, innovative web and mobile applications platforms.
+
+📫 **How to reach me:**  
+Feel free to connect with me on [LinkedIn] www.linkedin.com/in/manoj-rajagopal
+
+😄 **Pronouns:**  
+He/Him 
+
+⚡ **Fun fact:**  
+When I’m not coding, you might find me experimenting with new recipes in the kitchen or leveling up in my Gaming skills.
